@@ -1,2 +1,14 @@
 # Pokemon-Cards-Web-Development-Project-3
-Pokémon Cards is a fun web project built with HTML, CSS, and JavaScript. It generates random Pokémon cards styled like trading cards, with responsive design and hover effects. A simple beginner-friendly project to practice DOM manipulation, layouts, and creative frontend development skills.
+🎴 Pokémon Cards:
+A fun web project that generates random Pokémon cards using HTML, CSS, and JavaScript. The app displays multiple Pokémon cards with images (and optional names), styled like collectible trading cards.
+
+💡 Features:
+🖼️ Displays Pokémon card images dynamically.
+🎲 Generates random cards from a predefined set of Pokémon artwork.
+📱 Responsive card layout using Flexbox.
+✨ Hover effect and card-style borders for a collectible look.
+
+🛠️ Technologies Used:
+HTML5 → Structure for card layout.
+CSS3 → Styling, Flexbox grid, hover effects.
+JavaScript (ES6) → Dynamically generates and injects cards into the page.
